@@ -1,10 +1,5 @@
-	document.write:("<h1>Hello JS UPSE"):
+alert("HOLA JAVASCRIPTS.0");
 
-	alert ("hola")
+document.write("<h1>Hola JavaScript!</h1>");
 
-	document.write('Hola Mundo');
-
-
-
-	
-
+alert("HOLA JAVASCRIPTS.0");
